@@ -1,0 +1,8 @@
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\bin\Debug\EOSClient.exe
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\bin\Debug\EOSClient.pdb
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.csprojResolveAssemblyReference.cache
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.LoginGUI.resources
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.Properties.Resources.resources
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.csproj.GenerateResource.Cache
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.exe
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.pdb
