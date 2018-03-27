@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace librarys.DAL
+namespace libraries.DTL
 {
-    class Test
+    public class Test
     {
+        private int testID;
+        private string testCode;
     }
 }

@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace librarys.DAL
+namespace libraries.DTL
 {
-    class Question
+    public class Question
     {
+        private int questionID;
+        private string question;
+        private int answerID;
     }
 }
