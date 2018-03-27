@@ -1,0 +1,5 @@
+C:\Users\ahcl\Desktop\CSharpProject\CSharpProject\bin\CSharpProject.dll.config
+C:\Users\ahcl\Desktop\CSharpProject\CSharpProject\bin\CSharpProject.dll
+C:\Users\ahcl\Desktop\CSharpProject\CSharpProject\bin\CSharpProject.pdb
+C:\Users\ahcl\Desktop\CSharpProject\CSharpProject\obj\Debug\CSharpProject.dll
+C:\Users\ahcl\Desktop\CSharpProject\CSharpProject\obj\Debug\CSharpProject.pdb
