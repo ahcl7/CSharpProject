@@ -1,8 +1,8 @@
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\bin\Debug\EOSAdmin.exe
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\bin\Debug\EOSAdmin.pdb
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.csprojResolveAssemblyReference.cache
-C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.Form1.resources
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.Properties.Resources.resources
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.csproj.GenerateResource.Cache
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.exe
 C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.pdb
+C:\Users\ahcl\Desktop\CSharpProject\EOSAdmin\obj\Debug\EOSAdmin.AdminLoginGUI.resources
