@@ -7,5 +7,6 @@ namespace libraries.DAL
 {
     public class DAO
     {
+        
     }
 }
