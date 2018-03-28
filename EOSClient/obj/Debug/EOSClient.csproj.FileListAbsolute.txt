@@ -6,3 +6,4 @@ C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.Properties.Res
 C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.csproj.GenerateResource.Cache
 C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.exe
 C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.pdb
+C:\Users\ahcl\Desktop\CSharpProject\EOSClient\obj\Debug\EOSClient.DoTestGUI.resources

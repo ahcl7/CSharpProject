@@ -53,12 +53,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="eosWebService.asmx" />
+    <Content Include="AdminWebService.asmx" />
+    <Content Include="UserWebService.asmx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="eosWebService.asmx.cs">
-      <DependentUpon>eosWebService.asmx</DependentUpon>
+    <Compile Include="AdminWebService.asmx.cs">
+      <DependentUpon>AdminWebService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserWebService.asmx.cs">
+      <DependentUpon>UserWebService.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -70,6 +75,12 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\librarys\Libraries.csproj">
+      <Project>{a8d07abc-3dc2-4c75-8387-f19b069add38}</Project>
+      <Name>Libraries</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

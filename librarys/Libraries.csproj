@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\DAO.cs" />
+    <Compile Include="DAL\UserDAO.cs" />
     <Compile Include="DTL\Admin.cs" />
     <Compile Include="DTL\Answer.cs" />
     <Compile Include="DTL\Question.cs" />
